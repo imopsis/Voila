@@ -1,0 +1,16 @@
+# Voila
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - ipywidgets
+  - bqplot
+  - voila
+  - pandas
+  - matplotlib.pyplot
+  - decimal
+  - seaborn
+  - statsmodels.api
+  - sklearn import neighbors
+  - scipy import stats
+  - matplotlib.collections
