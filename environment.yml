@@ -7,10 +7,6 @@ dependencies:
   - bqplot
   - voila
   - pandas
-  - matplotlib.pyplot
-  - decimal
   - seaborn
-  - statsmodels.api
-  - sklearn import neighbors
-  - scipy import stats
-  - matplotlib.collections
+  - sklearn
+  - scipy
