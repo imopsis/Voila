@@ -8,5 +8,4 @@ dependencies:
   - voila
   - pandas
   - seaborn
-  - sklearn
   - scipy
